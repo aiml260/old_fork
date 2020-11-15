@@ -1,7 +1,7 @@
 # Mathematics of Big Data Spring 2019  
 Taught by Professor Weiqing Gu
 
-This page is created for the Mathematics of Big Data course Spring 2019.
+This page is created for the Dasion AIML 260 Course winter 2020/21.
 
 
 # References:
